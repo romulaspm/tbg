@@ -57,7 +57,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://romulaspm.github.io/tbg/",
+  "homepage": "https://romulaspm.github.io/tbg",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
